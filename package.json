@@ -1,0 +1,14 @@
+{
+  "name": "SimpleSimpleGulp",
+  "version": "0.0.1",
+  "description": "Simple installation of all gulp-related packages",
+  "author": "Spenser Jones <hello@spenserj.com>",
+  "devDependencies": {
+    "gulp": "~3.5.2",
+    "gulp-babel": "^6.1.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "1.11.1",
+    "gulp-util": "~2.2.14",
+    "node-sass": "^4.5.2"
+  }
+}
